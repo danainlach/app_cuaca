@@ -10,11 +10,10 @@ const cuaca = {
     "rain": "hujan",
     "thunderstorm": "badai petir",
     "snow": "salju",
-    "mist": "kabut",
+    "haze": "kabut",
     "heavy intensity rain": "hujan lebat",
     "light rain": "hujan ringan",
-    "overcast clouds": "awan mendung",
-    "haze": "kabut"
+    "overcast clouds": "awan mendung"
   },
 
   fetchWeather: async function (kota) {
