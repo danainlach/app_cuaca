@@ -13,7 +13,8 @@ const cuaca = {
     "mist": "kabut",
     "heavy intensity rain": "hujan lebat",
     "light rain": "hujan ringan",
-    "overcast clouds": "awan mendung"
+    "overcast clouds": "awan mendung",
+    "haze": "kabut"
   },
 
   fetchWeather: async function (kota) {
